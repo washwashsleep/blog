@@ -9,7 +9,7 @@ description: > # We want wash wash sleep!!
 baseurl: "/blog/" # the subpath of your site, e.g. /blog/
 url: "http://washwashsleep.github.io" # the base hostname & protocol for your site
 #blog logo
-logo: "/assets/images/logo.jpg"
+logo: "https://avatars0.githubusercontent.com/u/9893415?v=3&s=200"
 #blog cover
 cover: "/assets/images/washsleep.jpg"
 name: 'WWS'
