@@ -6,7 +6,7 @@ permalink: /:categories/:year/:month/:day/:title
 title: " Blog -  WWS"
 email: washwashsleep@email.com
 description: > # We want wash wash sleep!!
-baseurl: "blog" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://washwashsleep.github.io/" # the base hostname & protocol for your site
 #blog logo
 logo: "/assets/images/logo.jpg"
