@@ -7,6 +7,7 @@ use [jekyll](http://jekyllrb.com/)
 
 ```
 gem install jekyll
+gem install pygments.rb
 ```
 
 ## usage / test
