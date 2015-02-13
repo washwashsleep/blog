@@ -18,3 +18,10 @@ image:
 > 為了將我們的點滴記錄起來，特別將此做為我們洗洗睡的揮灑天地～
 
 就是這樣～喵
+<section>
+		<h2>Results and Empty Screens</h2>
+		<div class="img">
+			<img title="Download Bootstrap 3 UI Kit" src="pic/empty-screens.jpg" alt="">
+		</div>
+
+</section>
