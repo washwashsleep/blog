@@ -19,4 +19,4 @@ image:
 
 就是這樣～喵
 
-<div id="home-row-2" class="row clearfix"><div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="4"><img src="http://www.blacktie.co/demo/munter/images/s02.png"></div><span>SIMON</span></div><div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="3"><img src="http://www.blacktie.co/demo/munter/images/s01.png"></div><span>WAYNE</span></div><div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="5"><img src="http://www.blacktie.co/demo/munter/images/s03.png"></div><span>WEBBER</span></div></div>
+<div id="home-row-2" class="row clearfix"><div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="4"><img src="http://graph.facebook.com/soonsimon2001/picture"></div><span>SIMON</span></div><div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="3"><img src="http://graph.facebook.com/wayne.lin.505/picture"></div><span>WAYNE</span></div><div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="5"><img src="http://graph.facebook.com/bird23074035/picture"></div><span>WEBBER</span></div></div>
