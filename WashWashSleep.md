@@ -19,4 +19,4 @@ image:
 
 就是這樣～喵
 
-<div id="home-row-2" class="row clearfix"><div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="4"><img src="images/s02.png"></div><span>PROFESSIONAL</span></div><div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="3"><img src="images/s01.png"></div><span>FRIENDLY</span></div><div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="5"><img src="images/s03.png"></div><span>SUITABLE</span></div></div>
+<div id="home-row-2" class="row clearfix"><div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="4"><img src="http://www.blacktie.co/demo/munter/images/s02.png"></div><span>PROFESSIONAL</span></div><div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="3"><img src="http://www.blacktie.co/demo/munter/images/s01.png"></div><span>FRIENDLY</span></div><div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="5"><img src="http://www.blacktie.co/demo/munter/images/s03.png"></div><span>SUITABLE</span></div></div>
