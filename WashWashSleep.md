@@ -18,10 +18,8 @@ image:
 > 為了將我們的點滴記錄起來，特別將此做為我們洗洗睡的揮灑天地～
 
 就是這樣～喵
-<section>
-		<h2>Results and Empty Screens</h2>
-		<div class="img">
-			<img title="Download Bootstrap 3 UI Kit" src="pic/empty-screens.jpg" alt="">
-		</div>
-
-</section>
+<div id="home-row-2" class="row clearfix">
+				<div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="4"><img src="images/s02.png"></div><span>PROFESSIONAL</span></div>
+				<div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="3"><img src="images/s01.png"></div><span>FRIENDLY</span></div>
+				<div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="5"><img src="images/s03.png"></div><span>SUITABLE</span></div>
+			</div>
